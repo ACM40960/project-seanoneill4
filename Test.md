@@ -1,3 +1,3 @@
 # Test
 
-**  This is a test document. **
+**This is a test document.**
